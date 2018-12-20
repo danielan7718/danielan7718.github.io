@@ -1,7 +1,7 @@
 ---
-layout:post
-title:
-data:2018-28-10
+layout: post
+title: "TITLE"
+data: 2018-10-28
 ---
 
    This our class learned about categorical and quantitative data. Categorical data asks the question "which one?" , quantitative data asks the question "how many?". This wasn't that challenging since I have learned about quantative data before in math and science class. However, I did have trouble in this question that was asked if "the sort phone book by last name is considered quantative or categorical?". This was a bit challenging for me because a phone book has numbers but it is organized in alphabetical order by last name. we also learned about data tables the contract for shapes is ...
