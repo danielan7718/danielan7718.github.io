@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flag Project - Final Submission"
+title: "Flag Project : Final Submission"
 date: 2018-12-21
 ---
 
